@@ -22,4 +22,3 @@ resource "local_file" "randomuser" {
     random_id.resource_id
   ]
 } 
-#petite modif
