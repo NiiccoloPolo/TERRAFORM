@@ -1,2 +1,2 @@
 profile_input = [
-"Mr","AUBOIS","Nicolas"]
+"Mr","AUBOIS","Nicolas "]
