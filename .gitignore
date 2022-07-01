@@ -1,1 +1,5 @@
-*terraform*
+**/.terraform
+**/data
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfsate.backup
